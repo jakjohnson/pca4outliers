@@ -1,6 +1,6 @@
 # Détection d'anomalies par ACP
 
-Jean-Philip Guichard, Pierre Parrat, Christian Perez, Jack Johnson
+Jean-Philip Guichard, Pierre Parrat, Christian Perez, Jack Johnson  
 Service des technologies de l'information et de communication du CEA Cadarache.
 
 ## Préparation de l'environnement
